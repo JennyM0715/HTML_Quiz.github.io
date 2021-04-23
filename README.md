@@ -6,13 +6,14 @@ Created a short "Intro to HTML" Quiz using HTML, CSS, and JS.
     * Visual Stdio Code with Live Server extension and Remote - WSL extensions
     * Ubuntu terminal (Windows Subsystem for Linux" must be turn on (under Windows Features))
     * GitHub
-    * To obtain PNG image for favicon.ico:
 
-*[Flaticon](https://www.flaticon.com/)
+# Links 
+    * To obtain PNG image for favicon.ico:
+[Flaticon](https://www.flaticon.com/)
 
     * To convert PNG flaticon to favicon.ico:
 
-* [Favicon Converter](https://favicon.io/favicon-converter/)
+[Favicon Converter](https://favicon.io/favicon-converter/)
 
     * To obtain jQuery <script> tag:
 
@@ -24,7 +25,7 @@ Created a short "Intro to HTML" Quiz using HTML, CSS, and JS.
 
     * For CSS colors:
 
-*[ColorHexa](https://www.colorhexa.com/color-names)
+[ColorHexa](https://www.colorhexa.com/color-names)
 
 
 # Output 
