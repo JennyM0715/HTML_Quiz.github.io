@@ -27,4 +27,4 @@ Created a short "Intro to HTML" Quiz using HTML, CSS, and JS.
 
 # Output 
 
-* [Intro the HTML Quiz](https://jennym0715.github.io/)
+* [Intro the HTML Quiz](https://jennym0715.github.io/HTML_Quiz.github.io/)
