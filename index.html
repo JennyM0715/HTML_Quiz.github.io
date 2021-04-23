@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link id="favicon" rel="icon" title="favicon" href="favicon.ico" type="image/x-icon">
+        <title>Intro to HTML Quiz</title>	
+	    <link href="styles.css" rel="stylesheet" type="text/css" >
+        <script  type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>  
+    </head>
+    <body>
+        <div id="page-container">
+            <header>
+                <h1>Intro to HTML Quiz</h1>
+            </header>
+            <main>
+                <div class="quiz">  
+                    <!----this is where the questions will be contained and displayed-->     
+                    <div id="question_container" class="question"></div>
+                    <!--list of different choices to choose--->
+                    <div class="choices">
+                        <ul id="ul">
+                            <li id="choice_1" onclick="button(this)"></li>
+                            <li id="choice_2" onclick="button(this)"></li>
+                            <li id="choice_3" onclick="button(this)"></li>
+                            <li id="choice_4" onclick="button(this)"></li>
+                        </ul>
+                    </div>
+
+                    <!---the container that hold next button and score points-->
+                    <div class="button_score_container">
+                        <div class="next">
+                            <button id="next_btn" type="button" onclick="next()">
+                            Next
+                            </button>
+                        </div>
+                        <div class="scorebox">
+                            SCORE: <span id="score_point">0</span>
+                        </div>
+                    </div>
+                </div>
+            </main>
+            <footer id="footer">
+                <!---to get current year and have it automatically update copyright year -->
+                <!--instead of doing ti manually which would be hassle when working on multiple files-->
+                <p style="padding-top: .25rem;">Copyright &copy; <script>document.write(new Date().getFullYear())</script> </p>
+                <p>Intro to HTML Quiz | Jennifer Martinez </p>
+                <div style="background-color: black; color: white; text-align: center;">Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+            </footer>
+        </div>
+
+        <!--because of "window.load=app.load();" in the js file, the external script link
+          must be after <main> tag which is where quiz stuff is in-->
+        <script src="script.js"></script>
+    </body>
+
+</html>
