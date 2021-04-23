@@ -11,21 +11,17 @@ Created a short "Intro to HTML" Quiz using HTML, CSS, and JS.
     To obtain PNG image for favicon.ico:
 * [Flaticon](https://www.flaticon.com/)
 
-To convert PNG flaticon to favicon.ico:
-
-* [Favicon Converter](https://favicon.io/favicon-converter/)
+    To convert PNG flaticon to favicon.ico:
+    * [Favicon Converter](https://favicon.io/favicon-converter/)
 
     To obtain jQuery <script> tag:
-
-* [Google Hosted Libraries---jQuery 3.x snippet](https://developers.google.com/speed/libraries#jquery)
+    * [Google Hosted Libraries---jQuery 3.x snippet](https://developers.google.com/speed/libraries#jquery)
 
     To obtain/import free fonts:
-
-* [Google Fonts](https://fonts.google.com/)
+    * [Google Fonts](https://fonts.google.com/)
 
     For CSS colors:
-
-* [ColorHexa](https://www.colorhexa.com/color-names)
+    * [ColorHexa](https://www.colorhexa.com/color-names)
 
 
 # Output 
