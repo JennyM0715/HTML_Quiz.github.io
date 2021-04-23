@@ -9,7 +9,7 @@ Created a short "Intro to HTML" Quiz using HTML, CSS, and JS.
 
 # Links 
     * To obtain PNG image for favicon.ico:
-[Flaticon](https://www.flaticon.com/)
+* [Flaticon](https://www.flaticon.com/)
 
     * To convert PNG flaticon to favicon.ico:
 
